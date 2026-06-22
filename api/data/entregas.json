@@ -1,0 +1,92 @@
+[
+{
+    "id_entrega" : 1,
+    "status" : "EM SEPARAÇÃO",
+    "destino" : "Rua A, Bairro - Cidade | ES",
+    "prazo" : "2026-06-29",
+    "recebimento" : "2026-06-10",
+    "movimentacao" : "2026-06-22",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 2,
+    "status" : "EM TRANSPORTE",
+    "destino" : "Rua B, Bairro - Cidade | ES",
+    "prazo" : "2026-06-30",
+    "recebimento" : "2026-06-12",
+    "movimentacao" : "2026-06-21",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 3,
+    "status" : "ROTA DE ENTREGA",
+    "destino" : "Rua C, Bairro - Cidade | ES",
+    "prazo" : "2026-06-23",
+    "recebimento" : "2026-06-06",
+    "movimentacao" : "2026-06-22",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 4,
+    "status" : "ENTREGUE",
+    "destino" : "Rua D, Bairro - Cidade | ES",
+    "prazo" : "2026-05-12",
+    "recebimento" : "2026-05-04",
+    "movimentacao" : "2026-05-12",
+    "entrega" : "2026-05-12"
+},
+{
+    "id_entrega" : 5,
+    "status" : "ENTREGUE",
+    "destino" : "Rua E, Bairro - Cidade | ES",
+    "prazo" : "2026-06-22",
+    "recebimento" : "2026-06-10",
+    "movimentacao" : "2026-06-22",
+    "entrega" : "2026-06-22"
+},
+{
+    "id_entrega" : 6,
+    "status" : "EM SEPARAÇÃO",
+    "destino" : "Rua F, Bairro - Cidade | ES",
+    "prazo" : "2026-07-06",
+    "recebimento" : "2026-06-21",
+    "movimentacao" : "2026-06-22",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 7,
+    "status" : "ROTA DE ENTREGA",
+    "destino" : "Rua G, Bairro - Cidade | ES",
+    "prazo" : "2026-06-22",
+    "recebimento" : "2026-06-08",
+    "movimentacao" : "2026-06-22",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 8,
+    "status" : "EM SEPARAÇÃO",
+    "destino" : "Rua H, Bairro - Cidade | ES",
+    "prazo" : "2026-07-02",
+    "recebimento" : "2026-06-18",
+    "movimentacao" : "2026-06-19",
+    "entrega" : ""
+},
+{
+    "id_entrega" : 9,
+    "status" : "ENTREGUE",
+    "destino" : "Rua I, Bairro - Cidade | ES",
+    "prazo" : "2026-05-20",
+    "recebimento" : "2026-05-02",
+    "movimentacao" : "2026-05-20",
+    "entrega" : "2025-05-20"
+},
+{
+    "id_entrega" : 10,
+    "status" : "ENTREGUE",
+    "destino" : "Rua J, Bairro - Cidade | ES",
+    "prazo" : "2026-04-10",
+    "recebimento" : "2026-04-01",
+    "movimentacao" : "2026-04-10",
+    "entrega" : "2026-04-10"
+}
+]
