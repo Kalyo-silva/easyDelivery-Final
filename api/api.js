@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
 
-const fs = require('node:fs')
-
 app.get('/', (req, res) =>{
     res.status(200).json({
         "titulo" : "Easy Delivery API",
