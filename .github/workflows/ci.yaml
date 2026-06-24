@@ -31,5 +31,5 @@ jobs:
         working-directory: ./api
 
       - name: Faz o Build da Imagem Docker
-        run : docker build -t EasyDelivery-API .
+        run : docker build -t easydeliveri-api .
         working-directory: ./api
