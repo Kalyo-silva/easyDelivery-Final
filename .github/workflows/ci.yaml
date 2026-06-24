@@ -11,20 +11,26 @@ jobs:
 
       - name: iniciar o Node.js
         uses: actions/setup-node@v4
+        working-directory: ./api
         with:
           node-version: '24.x'
 
       - name: instalar dependências
         run : npm install
+        working-directory: ./api
       
       - name: Valida sintaxe da API
         run : npm run check
+        working-directory: ./api
       
       - name: Realiza Linting da API 
         run : npm run lint
+        working-directory: ./api
 
       - name: Executa os Testes unitários
         run : npm test
+        working-directory: ./api
 
       - name: Faz o Build da Imagem Docker
         run : docker build -t EasyDelivery-API .
+        working-directory: ./api
